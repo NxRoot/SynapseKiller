@@ -4,7 +4,7 @@ Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synaps
 <img src="https://i.ibb.co/XXBx11G/razer-blackwidow-chroma-gif-5.gif" style="float: right" alt="Alt text" title="Optional title">
 
 
-<img src="https://i.ibb.co/L5v5kPq/Razer-SServices.png" alt="Alt text" style="float: left" title="Optional title">
+<img src="https://i.ibb.co/Yh5sHBb/Razer-SServices.png" alt="Alt text" style="float: left" title="Optional title">
 
 ## How to Install
 **Setup Version** ( This will run automatically on startup )
