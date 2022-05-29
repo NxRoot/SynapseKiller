@@ -10,7 +10,7 @@ Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synaps
 # How Does It Work
 This Project was made in [batch  script](https://en.wikipedia.org/wiki/Batch_file) and converted to an installer and executable.
 
-It provides an alternative to [Razer Synapse Services](https://www.razer.com/synapse-3).
+It provides a way to use your Device Configs without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.
 
 * Listen for processes
 * Enable, Disable Processes
