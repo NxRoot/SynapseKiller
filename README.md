@@ -16,3 +16,22 @@ Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synaps
 * Download [Portable](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)
 * Run `SynapseKiller.exe`
 
+## How Does It Work
+This Project was made in [batch  script](https://en.wikipedia.org/wiki/Batch_file) and converted to an installer and executable.
+* Listen for processes
+* Enable, Disable Processes
+* Start or Kill Processes
+* Send Notifications
+* Runs On Startup (Optional)
+
+**Setup Version**
+* Runs On Startup (Handles Synapse Processes)
+* Synapse no longer needed on startup
+
+**Portable Version**
+* Doesn't run on startup unless you move the executable to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
+* Comes with 2 executables, `SynapseKiller.exe` or `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse
+
+
+
+
