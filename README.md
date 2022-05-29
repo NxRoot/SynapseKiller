@@ -10,7 +10,8 @@ Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synaps
 # How Does It Work
 This Project was made in [batch  script](https://en.wikipedia.org/wiki/Batch_file) and converted to an installer and executable.
 
-It provides a way to **use your Razer Configs** without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.
+It provides a way to **use your Razer Configs** without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.</br>
+`SynapseKiller` **freezes and destroys** all Razer Services **allowing configs to be loaded** first.
 
 **Functionality**
 * Listen for processes
@@ -26,7 +27,6 @@ It provides a way to **use your Razer Configs** without any [Razer Synapse Servi
 **Portable Version**
 * Doesn't run on startup unless you move the executable to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
 * Comes with 2 executables, `SynapseKiller.exe` and `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse
-
 
 # How to Install
 **Setup Version** ( This will run automatically on startup )
@@ -45,7 +45,6 @@ It provides a way to **use your Razer Configs** without any [Razer Synapse Servi
 **Portable Version**
 * Run `SynapseEnabler.exe` to Re-Enable Synapse
 * Delete all files
-
 
 # Compability
 * This was only tested on **Razer BlackWidow V3** but its supposed to work with all devices
