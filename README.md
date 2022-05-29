@@ -4,9 +4,9 @@ Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synaps
 
 ## How to Intall
 **Setup Version** ( This will run automatically on startup )
-* Download
+* Download Setup
 * Install `SynapseKillerSetup.exe`
 
 **Portable Version**
-* Download
+* Download Portable
 * Run `SynapseKiller.exe`
