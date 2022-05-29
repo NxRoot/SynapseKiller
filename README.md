@@ -46,7 +46,6 @@ It provides a way to **use your Razer Configs** without any [Razer Synapse Servi
 * Run `SynapseEnabler.exe` to Re-Enable Synapse
 * Delete all files
 
-</br>
 
 # Compability
 * This was only tested on **Razer BlackWidow V3** but its supposed to work with all devices
