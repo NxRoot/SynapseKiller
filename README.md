@@ -42,7 +42,7 @@ It does not keep any active processes, only runs until all services are handled.
 
 # How to Uninstall
 **Setup Version**
-* Just run the normal uninstaller that is generated after Setup is completed
+* Just run the normal uninstaller generated after Setup is completed
 
 **Portable Version**
 * Run `SynapseEnabler.exe` to Re-Enable Synapse
