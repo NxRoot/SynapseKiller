@@ -40,7 +40,7 @@ It provides a way to **use your Razer Configs** without any [Razer Synapse Servi
 
 # How to Uninstall
 **Setup Version**
-* Just run the normal uninstaller that gets generated after Setup is completed
+* Just run the normal uninstaller that is generated after Setup is completed
 
 **Portable Version**
 * Run `SynapseEnabler.exe` to Re-Enable Synapse
