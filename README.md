@@ -12,6 +12,7 @@ This Project was made in [batch  script](https://en.wikipedia.org/wiki/Batch_fil
 
 It provides a way to **use your Razer Configs** without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.
 
+**Functionality**
 * Listen for processes
 * Enable, Disable Processes
 * Start or Kill Processes
