@@ -25,7 +25,7 @@ It provides a way to **use your Razer Configs** without any [Razer Synapse Servi
 
 **Portable Version**
 * Doesn't run on startup unless you move the executable to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
-* Comes with 2 executables, `SynapseKiller.exe` or `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse
+* Comes with 2 executables, `SynapseKiller.exe` and `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse
 
 
 # How to Install
