@@ -46,3 +46,14 @@ It provides a way to **use your Razer Configs** without any [Razer Synapse Servi
 * Run `SynapseEnabler.exe` to Re-Enable Synapse
 * Delete all files
 
+</br>
+
+# Compability
+* This was only tested on **Razer BlackWidow V3** but its supposed to work with all devices
+* Macros need to be tested
+
+# TODO
+* Open Synapse Panel without the need to Re-Enable Services
+* Handle Chroma and Studio Processes
+* Test more devices
+
