@@ -13,6 +13,8 @@ This Project was made in [batch  script](https://en.wikipedia.org/wiki/Batch_fil
 It provides a way to **use your Razer Configs** without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.</br>
 `SynapseKiller` **freezes and destroys** all Razer Services **allowing configs to be loaded** first.
 
+It does not keep any active processes, only runs until all services are handled.
+
 **Functionality**
 * Listen for processes
 * Enable, Disable Processes
