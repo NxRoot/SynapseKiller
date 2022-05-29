@@ -55,5 +55,6 @@ It does not keep any active processes, only runs until all services are handled.
 # TODO
 * Open Synapse Panel without the need to Re-Enable Services
 * Handle Chroma and Studio Processes
+* Implement dynamic configuration
 * Test more devices
 
