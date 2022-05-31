@@ -26,9 +26,11 @@ It does not keep any active processes, only runs until all services are handled.
 * Runs On Startup (Handles Synapse Processes)
 * Synapse no longer needed on startup
 
-**Portable Version** ([Demo](https://streamable.com/qdkoq3))
+**Portable Version** 
 * Doesn't run on startup unless you move the executable to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
-* Comes with 2 executables, `SynapseKiller.exe` and `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse ([Enabler Demo](https://streamable.com/12p2ob))
+* Comes with 2 executable files: 
+  * `SynapseKiller.exe` to Destroy Synapse Services. ([Demo](https://streamable.com/qdkoq3))
+  * `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse. ([Demo](https://streamable.com/12p2ob))
 
 # How to Install
 **Setup Version** ( This will run automatically on startup )
