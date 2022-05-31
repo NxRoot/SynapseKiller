@@ -1,4 +1,4 @@
-# SynapseKiller V1.0
+# SynapseKiller V1.0 ([Demo](https://streamable.com/qdkoq3))
 Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synapse's bloatware running in the background )
 <br></br>
 <img src="https://i.ibb.co/XXBx11G/razer-blackwidow-chroma-gif-5.gif" style="float: right" alt="Alt text" title="Optional title">
@@ -28,7 +28,7 @@ It does not keep any active processes, only runs until all services are handled.
 
 **Portable Version**
 * Doesn't run on startup unless you move the executable to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
-* Comes with 2 executables, `SynapseKiller.exe` and `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse
+* Comes with 2 executables, `SynapseKiller.exe` and `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse ([Video](https://streamable.com/12p2ob))
 
 # How to Install
 **Setup Version** ( This will run automatically on startup )
