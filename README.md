@@ -1,14 +1,12 @@
-# SynapseKiller V1.0 
-Razer Synapse Services Destroyer ( Keep your Razer Gaming configs without Synapse's bloatware running in the background )
+# Synapse Killer V2.0 (Updated 2024)
+Keep your Razer configs without Synapse's bloatware running in the background.
 <br></br>
-<img src="https://i.ibb.co/XXBx11G/razer-blackwidow-chroma-gif-5.gif" style="float: right" alt="Alt text" title="Optional title">
+<img src="https://i.ibb.co/XXBx11G/razer-blackwidow-chroma-gif-5.gif" alt="Alt text" title="Synapse Keyboard">
 
+<img src="https://i.ibb.co/Yh5sHBb/Razer-SServices.png" alt="Loading Image..."  title="Synapse Processes"/>
 
-<img src="https://i.ibb.co/Yh5sHBb/Razer-SServices.png" alt="Alt text" style="float: left" title="Optional title">
-
-
-# How Does It Work
-This Project was made in [batch  script](https://en.wikipedia.org/wiki/Batch_file) and converted to an installer and executable.
+# How It Works
+This Project was made in [C](https://en.wikipedia.org/wiki/C_(programming_language)) and built into multiple executables.
 
 It provides a way to **use your Razer Configs** without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.</br>
 `SynapseKiller` **freezes and destroys** all Razer Services **allowing configs to be loaded** first.
@@ -22,41 +20,33 @@ It does not keep any active processes, only runs until all services are handled.
 * Send Notifications
 * Runs On Startup (Optional)
 
-**Setup Version**
-* Runs On Startup (Handles Synapse Processes)
-* Synapse no longer needed on startup
-
-**Portable Version** 
-* Doesn't run on startup unless you move the executable to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp`
-* Comes with 2 executable files: 
-  * `SynapseKiller.exe` to Destroy Synapse Services. ([Demo](https://streamable.com/qdkoq3))
-  * `SynapseEnabler.exe` to Reset and Re-Enable Razer Synapse. ([Demo](https://streamable.com/12p2ob))
-
 # How to Install
-**Setup Version** ( This will run automatically on startup )
-* Download [Setup](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)
-* **Uncheck Synapse to Run on Startup** (Razer Central Settings Panel)
-* Install `SynapseKillerSetup.exe`
 
-**Portable Version**
-* Download [Portable](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)
-* Run `SynapseKiller.exe`
+| Exe    | Description | Releases |
+| -------- | ------- | ------- |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="width: 40px;height: 40px" src="https://iili.io/deaPZH7.png"/></a> | Destroy all synapse services    | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="width: 40px;height: 40px" src="https://iili.io/deaPLSS.png"/></a> | Enable all synapse services     | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="width: 40px;height: 40px" src="https://iili.io/deaPtR9.png"/></a> | Start synapse killer on boot    | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
 
-# How to Uninstall
-**Setup Version**
-* Just run the normal uninstaller generated after Setup is completed
 
-**Portable Version**
-* Run `SynapseEnabler.exe` to Re-Enable Synapse
-* Delete all files
+# Run on Boot
 
-# Compability
-* This was only tested on **Razer BlackWidow V3** but its supposed to work with all devices
-* Macros need to be tested
+* Move `Synapse-Boot` executable into `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp` 
 
-# TODO
-* Open Synapse Panel without the need to Re-Enable Services
-* Handle Chroma and Studio Processes
-* Implement dynamic configuration
-* Test more devices
+# Custom Processes
+
+* Create a new `config.txt` file in the same folder as the executable with the following content:
+```
+C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Central
+C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Updater
+C:\Program Files (x86)\Razer\Razer Services\Razer Central\RazerCentralService
+C:\Program Files (x86)\Razer\Razer Services\Razer Central\Razer Synapse Service
+C:\Program Files (x86)\Razer\Synapse3\UserProcess\Razer Synapse Service Process
+C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerServiceStartup
+C:\Program Files (x86)\Razer\Razer Services\GMS\GameManagerService
+C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3
+```
+
+## &nbsp;
+⭐ If you find this useful!
 
