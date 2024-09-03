@@ -24,9 +24,9 @@ It does not keep any active processes, only runs until all services are handled.
 
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
-| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="width: 40px;height: 40px" src="https://iili.io/deaPZH7.png"/></a> | Destroy all synapse services    | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
-| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="width: 40px;height: 40px" src="https://iili.io/deaPLSS.png"/></a> | Enable all synapse services     | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
-| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="width: 40px;height: 40px" src="https://iili.io/deaPtR9.png"/></a> | Start synapse killer on boot    | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://iili.io/deaPZH7.png"/></a> | Destroy all synapse services    | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://iili.io/deaPLSS.png"/></a> | Enable all synapse services     | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/tag/Latest"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://iili.io/deaPtR9.png"/></a> | Start synapse killer on boot    | [Download](https://github.com/NxRoot/SynapseKiller/releases/tag/Latest)    |
 
 
 # Run on Boot
