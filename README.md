@@ -16,8 +16,6 @@ It does not keep any active processes, only runs until all services are handled.
 **Functionality**
 * Listen for processes
 * Enable, Disable Processes
-* Start or Kill Processes
-* Send Notifications
 * Runs On Startup (Optional)
 
 # How to Install
