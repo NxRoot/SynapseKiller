@@ -1,38 +1,30 @@
 # Synapse Killer V2.0 (Updated 2025)
 Keep your Razer configs without Synapse's bloatware running in the background.
 <br></br>
-<img src="https://i.ibb.co/XXBx11G/razer-blackwidow-chroma-gif-5.gif" alt="Alt text" title="Synapse Keyboard">
+<img src="https://github.com/NxRoot/SynapseKiller/blob/main/keyboard.gif" width="60%" alt="Alt text" title="Synapse Keyboard">
 
-<img src="https://i.ibb.co/Yh5sHBb/Razer-SServices.png" alt="Loading Image..."  title="Synapse Processes"/>
+<img src="https://github.com/NxRoot/SynapseKiller/blob/main/configuration.gif" alt="Loading Image..." width="60%" title="Synapse Configurator"/>
 
-# How It Works
-This Project was made in [C#](https://dotnet.microsoft.com/en-us/languages/csharp#:~:text=C%23%20is%20a%20modern%2C%20innovative,5%20programming%20languages%20on%20GitHub.) and built into an executable.
-
-It provides a way to **use your Razer Configs** without any [Razer Synapse Services](https://www.razer.com/synapse-3) running.</br>
-`SynapseKiller` **freezes and destroys** all Razer Services **allowing configs to be loaded** first.
-
-It does not keep any active processes, only runs until all services are handled.
-
-**Functionality**
-* Listen for processes
-* Enable, Disable Processes
-* Runs On Startup (Optional)
 
 # How to Install
 
 | Exe    | Description | Releases |
 | -------- | ------- | ------- |
-| <a href="https://github.com/NxRoot/SynapseKiller/archive/refs/heads/master.zip"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://iili.io/deaPZH7.png"/></a> | Enable or disable all synapse services    | [Download](https://github.com/NxRoot/SynapseKiller/archive/refs/heads/master.zip)    |
+| <a href="https://github.com/NxRoot/SynapseKiller/releases/download/Latest/SynapseKillerV3.zip"><img style="min-width: 40px;min-height: 40px; width: 40px;" src="https://iili.io/deaPZH7.png"/></a> | Enable or disable all synapse services    | [Download](https://github.com/NxRoot/SynapseKiller/releases/download/Latest/SynapseKillerV3.zip)    |
 
 
-# Run on Boot
+# How To Use (Auto)
+- Run `SynapseKiller - Configurator.exe` to configure settings.
+- Run `SynapseKiller.exe` to Enable or Disable Synapse.
+
+# Run on Boot (Manual)
 
 * Press `WIN + R` to open Run Console --> Write `shell:startup` and press OK.
 * Move `SynapseKiller.exe` executable into the folder. 
 
-# Configuration
+# Configuration (Manual)
 
-* After running the app you should find the `skconfig.txt` in your documents folder.
+* After running `SynapseKiller.exe` you should find the `skconfig.txt` in your documents folder.
 * The first line must be pointing to Razer App executable, all the other lines are services.
 * The last line is the `time in seconds` to load razer configs before destroying synapse.
 
