@@ -1,4 +1,4 @@
-# Synapse Killer V2.0 (Updated 2025)
+# Synapse Killer V3.0 (Updated 2025)
 Keep your Razer configs without Synapse's bloatware running in the background.
 <br></br>
 <img src="https://github.com/NxRoot/SynapseKiller/blob/main/keyboard.gif" width="60%" alt="Alt text" title="Synapse Keyboard">
